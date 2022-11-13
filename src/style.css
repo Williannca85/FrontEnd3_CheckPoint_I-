@@ -1,0 +1,113 @@
+body {
+    background: #151515;
+    padding: 20px 0 0;
+}
+
+.App {
+    background: #202020;
+    margin: 20px;
+}
+
+h1 {
+    color: #FFF;
+    margin-left: 20px;
+    margin: 20px;
+    padding: 20px 0 0;
+}
+
+.formulario {
+    border: 0px solid #FFF;
+    border-radius: 5px;
+    background: #adadad;
+    margin: 20px;
+    padding: 20px;
+    background: #202020;
+}
+
+.groupForm {
+
+    float: left;
+    color: #fff;
+    margin: 0 10px 0 0;
+}
+
+label {
+    color: #fff;
+    margin: 10px;
+}
+
+h2 {
+    color: #FFF;
+    
+}
+
+input {
+    border-radius: 5px;
+    background: #353535;
+    color: #FFF;
+
+}
+
+.form-control {
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 100;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    appearance: none;
+    border-radius: 0.375rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    margin: 10px 20px 10px 0;
+}
+
+.form-control-hex{
+    background: #f8f0f0;
+    margin: 10px;
+    padding: 10px 20;
+    color: #f90e0e;
+}
+
+button {
+    background-color:  #f81212;
+    color: #FFF;
+    padding: 10px 20px;
+    border: 1px solid #adadad;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+.no-hidden {
+    display: inline;
+    color: #f81212;
+}
+.hidden {
+    display: none;
+}
+
+section.cards {
+    padding: 10px;
+}
+
+.card-container {
+    border: 0px solid #FFF;
+    border-radius: 5px;
+    width: 600px;
+    height: 300px;
+    float: left;
+    margin: 40px;
+    padding: 50px;
+}
+h3 {
+    color: #fff;
+    text-shadow: 1px 1px 0px #adadad;
+    font-size: 45px;
+}
+span {
+    color: #fff;
+    text-shadow: 1px 1px 0px #adadad;
+    font-size: 35px;
+}
